@@ -1,2 +1,2 @@
-FROM kubernetesdashboarddev/kubernetes-dashboard-amd64:head
+FROM kubernetesdashboarddev/kubernetes-dashboard-amd64:v1.7.2
 MAINTAINER Jack He
